@@ -1,0 +1,14 @@
+body
+{
+	text-align: center;
+}
+span
+{
+	font-size: 12px;
+	color: crimson;
+}
+canvas
+{
+	background: linear-gradient(grey, blue);
+	border-radius: 20px;
+}
